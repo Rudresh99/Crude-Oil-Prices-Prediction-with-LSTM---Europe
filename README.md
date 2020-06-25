@@ -1,5 +1,7 @@
 # Crude-Oil-Prices-Prediction-With-LSTM--Europe
 
+![](https://user-images.githubusercontent.com/52448964/85650354-06f7c300-b6c3-11ea-947b-51bd32c88f8f.png)
+
 The average daily settlement price for Brent front-month futures contracts increased by 22% from April to May, the largest percentage increase for any month since March 1999. However, even with this increase, prices remain significantly lower than the first-quarter 2020 average. Several factors likely provided support to crude oil prices. Initial oil consumption data and additional efforts by major oil producers indicate that the oversupply in global oil markets has not been as severe as EIA had forecast in the May STEO. As U.S. states and countries in the Organization of Economic Cooperation and Development (OECD) began to reopen from lockdown, early indicators of petroleum consumption have shown increases from the low April levels. EIA estimates that the global consumption of petroleum and other liquid fuels averaged 82.9 million barrels per day (b/d) in May, up 3.7 million b/d from April consumption and 2.9 million b/d more than forecast in the May STEO.
 
 
